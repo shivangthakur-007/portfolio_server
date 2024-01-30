@@ -1,0 +1,4 @@
+node_modules
+
+#to deleting this
+.env
